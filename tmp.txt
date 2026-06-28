@@ -1,0 +1,5 @@
+SampleID	Tissue	Factor	Condition	Treatment	Replicate	bamReads	Peaks	PeakCaller
+siNC_rep1	Na	siNC	Na	Na	1	../../0.data/ChIP_seq_libraries-HeLasiNC-1.to_hg19.uniq.rmdup.bam	../../0.data/out0.WD_pol2ChIP_siNC_with_YR-input_p0.01-top10000_peaks.narrowPeak	bed
+siNC_rep2	Na	siNC	Na	Na	2	../../0.data/ChIP_seq_libraries-HeLasiNC-2.to_hg19.uniq.rmdup.bam	../../0.data/out0.WD_pol2ChIP_siNC_with_YR-input_p0.01-top10000_peaks.narrowPeak	bed
+siK_rep1	Na	siK	Na	Na	1	../../0.data/ChIP_seq_libraries-HeLasiK-1.to_hg19.uniq.rmdup.bam	../../0.data/out0.WD_pol2ChIP_siK_with_YR-input_p0.01-top10000_peaks.narrowPeak	bed
+siK_rep2	Na	siK	Na	Na	2	../../0.data/ChIP_seq_libraries-HeLasiK-2.to_hg19.uniq.rmdup.bam	../../0.data/out0.WD_pol2ChIP_siK_with_YR-input_p0.01-top10000_peaks.narrowPeak	bed
